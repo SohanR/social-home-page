@@ -40,7 +40,8 @@ body {
   font-size: 30px;
 }
 
-#explore-section .fa {
+#explore-section .fa,
+#share-section .fa {
   color: white;
   background: #333;
   padding: 4px;
