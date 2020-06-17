@@ -47,4 +47,12 @@ body {
   border-radius: 5px;
   font-size: 30px;
 }
+
+#create-section .fa {
+  color: #008ed6;
+  background: #fff;
+  padding: 4px;
+  border-radius: 5px;
+  font-size: 30px;
+}
 /*# sourceMappingURL=style.css.map */
